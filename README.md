@@ -1,8 +1,8 @@
 2011-scheme-workshop-quines-paper-code
 ======================================
 
-Code from the 2011 Scheme Workshop programming pearl "miniKanren, Live and Untagged: Quine Generation via Relational Interpreters," by William E. Byrd, Eric Holk, and Daniel P. Friedman.
+Because I am full of nub, and don't know what year it is, I goofed it.  As @lindsey pointed out on Twitter, this paper was from the 2012 Scheme Workshop.  So, please see the repository:
 
-To run the tests, just load the file ```testall.scm```
+https://github.com/webyrd/2012-scheme-workshop-quines-paper-code
 
-All code tested under Petite Chez Scheme Version 8.4.
+--Will
